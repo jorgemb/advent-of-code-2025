@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["d01-secret-entrance", "d02-gift-shop"]
